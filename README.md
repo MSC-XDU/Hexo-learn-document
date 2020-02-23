@@ -29,6 +29,14 @@
 7. 挑选博客主题、了解hexo的工作机制、简单修改主题、添加rss生成
 8. 如果愿意的话将你的博客和rss添加到[MSCer RSS列表](https://github.com/MSC-XDU/MSCer_blog_rss)
 
+## Pre-Step1
+
+如果你听了本学期第一次技术沙龙的建议申请了学生邮箱的话，强烈建议在开始前去申请[GitHub education pack](https://education.github.com/benefits)
+
+本文涉及的所有服务均可在pack中找到免费额度，而且不需要信用卡
+
+申请需要你的学生邮箱以及学生证照片，另外上传照片时**一定不要**用梯子，会导致ip地址偏离学校太多审核失败
+
 ## Step1 了解`git`和`github`并开始本教程
 
 内容准备中……
