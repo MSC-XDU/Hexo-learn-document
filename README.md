@@ -48,21 +48,21 @@
 首先请安装`git` 官方下载过慢的话可以[从这里下载](https://myblog-1254913510.file.myqcloud.com/Git-2.25.1-64-bit.exe)
 
 粗略阅读[本篇](https://www.bootcss.com/p/git-guide/)文章,没看懂的部分跳过即可，只要弄明白以下几个命令如何使用即可:
-1. git clone
-2. git add
-3. git commit
-4. git push
-5. git status
+1. `git clone`
+2. `git add`
+3. `git commit`
+4. `git push`
+5. `git status`
 
 
 ### 基础扩展(日常使用经常用到的内容)：
 1. 阅读[这篇微信推文](https://mp.weixin.qq.com/s/l5f1299fxOuMF9ZZ4wA17A)
 2. 弄明白下面几个命令:
-   1. git checkout
-   2. git log
-   3. git reflog
-   4. git merge
-   5. git pull
+   1. `git checkout`
+   2. `git log`
+   3. `git reflog`
+   4. `git merge`
+   5. `git pull`
 3. 解答`issue #1`中的问题(直接回复即可)
 
 
