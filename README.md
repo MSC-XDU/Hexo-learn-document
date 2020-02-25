@@ -41,7 +41,7 @@
 
 另外，你的学生邮箱能为你提供非常多的学生优惠，不过这不是本文的内容，可以参考知乎的[这篇文章](https://zhuanlan.zhihu.com/p/22804091)
 
-## Step1-1 了解`git`
+## Step1.1 了解`git`
 
 ### 基本内容(为顺利完成本教程必须掌握的内容)：
 
@@ -71,7 +71,7 @@
 
 
 
-## Step1-2 了解`github`并完成签到任务
+## Step1.2 了解`github`并完成签到任务
 
 我觉得如果你完成了`Step1-1-基本内容`那部分，那么接下来最好的方式就是尝试（随便乱点一通看看发生什么 逃）
 
@@ -89,6 +89,13 @@
 `fork`本仓库，把你`fork`的把版本clone到本地，在`Registration-list.md`文件里面添加你的名字或昵称，`commit`并`push`，最后给本仓库提交一个`Pull request`
 
 建议填写QQ昵称我会根据本教程的完成情况，在返校后**发放一些微软周边小礼品**
+
+## Step2&3&3
+
+这部分请参照下面内容：
+1. [hexo博客搭建教程](https://alpha-yang.github.io/2020/02/11/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/)(by `alpha-yang`) 此处超级超级感谢！！！
+2. [hexo官方文档](https://hexo.io/zh-cn/docs/)
+
 
 
 ## 附录-Hexo模版推荐
