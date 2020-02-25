@@ -91,6 +91,8 @@
 建议填写QQ昵称我会根据本教程的完成情况，在返校后**发放一些微软周边小礼品**
 
 
+## 附录-Hexo模版推荐
 
+[Volantis](https://xaoxuu.com/wiki/volantis/)  by `19-(｡･∀･)ﾉﾞヾ(･ω･。)`
 
 
