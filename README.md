@@ -92,7 +92,7 @@
 
 建议填写QQ昵称我会根据本教程的完成情况，在返校后**发放一些微软周边小礼品**
 
-## Step2&3&3
+## Step2&3&4
 
 这部分请参照下面内容：
 1. [hexo博客搭建教程](https://alpha-yang.github.io/2020/02/11/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/)(by `alpha-yang`) 此处超级超级感谢！！！
